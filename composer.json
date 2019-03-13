@@ -1,0 +1,17 @@
+{
+    "name": "astepanov/otus-php-example-sorter",
+    "description": "simple sort library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "astepanov",
+            "email": "some@mail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Otus\\": "src/Otus"
+        }
+    }
+}
