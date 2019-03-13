@@ -45,7 +45,6 @@ class Sorter
     {
         $this->sortStyle = $style;
         $this->setFunctionNameByConstant();
-        var_dump($this);
     }
 
     /**
