@@ -1,18 +1,20 @@
 {
-    "name": "astepanov/otus-php-example-sorter",
-    "description": "simple sort library",
-    "type": "library",
-    "version":"master",
-    "authors": [
-        {
-            "name": "astepanov",
-            "email": "some@mail.com"
-        }
-    ],
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "Otus\\": "src/Otus"
-        }
+  "name": "astepanov/otus-php-example-sorter",
+  "description": "simple sort library",
+  "type": "library",
+  "version": "master",
+  "authors": [
+    {
+      "name": "astepanov",
+      "email": "some@mail.com"
     }
+  ],
+  "require": {
+    "php": "7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Otus\\": "src/Otus"
+    }
+  }
 }
