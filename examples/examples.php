@@ -1,6 +1,6 @@
 <?php
 
-require 'vendor/autoload.php';
+require '../vendor/autoload.php';
 use Otus\Lessons\Lesson4\Sorter;
 
 $example = new Sorter();
