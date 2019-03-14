@@ -2,7 +2,7 @@
   "name": "astepanov/otus-php-example-sorter",
   "description": "simple sort library",
   "type": "library",
-  "version": "master",
+  "version": "1.1.2",
   "authors": [
     {
       "name": "astepanov",
@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "php": "^7.1"
+    "php": ">=7.1"
   },
   "autoload": {
     "psr-4": {
